@@ -1,0 +1,3 @@
+4. Realiza cambios en el repositorio: Abre el repositorio clonado en tu explorador de archivos.
+Agrega un archivo nuevo o realiza modificaciones en un archivo existente. Por ejemplo,
+puedes crear un archivo de texto simple llamado "ejercicio.txt" y agregar algún contenido.
